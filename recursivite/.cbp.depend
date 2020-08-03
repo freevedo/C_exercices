@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1555265172 source:c:\users\guigma freddy\desktop\programmationc\.cbp\recursivite\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+
+1555265037 c:\users\guigma freddy\desktop\programmationc\.cbp\recursivite\file.h
+
+1555265208 source:c:\users\guigma freddy\desktop\programmationc\.cbp\recursivite\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+

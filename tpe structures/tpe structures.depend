@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541150438 source:c:\users\guigma freddy\desktop\programmationc\tpe structures\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1539535315 source:c:\users\guigma freddy\desktop\programmationc\restaurant\restaurant.c
+
+1539537487 source:c:\users\guigma freddy\desktop\programmationc\restaurant\main.c
+	<stdio.h>
+	<stdlib.h>
+	"restaurant.h"
+
+1539535924 c:\users\guigma freddy\desktop\programmationc\restaurant\restaurant.h
+

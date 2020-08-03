@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538569080 source:c:\users\guigma freddy\desktop\programmationc\prosit3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

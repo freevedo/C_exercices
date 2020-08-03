@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540984645 source:c:\users\guigma freddy\desktop\programmationc\prosit7 les structures\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

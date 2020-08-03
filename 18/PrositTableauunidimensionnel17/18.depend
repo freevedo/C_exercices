@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539518844 source:c:\users\guigma freddy\desktop\programmationc\18\prosittableauunidimensionnel17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
